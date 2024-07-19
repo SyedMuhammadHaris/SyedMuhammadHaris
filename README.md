@@ -6,7 +6,7 @@
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhammadHaris&layout=compact&langs_count=7&theme=monokai" /> -->
 </div>
 
-<h4 align="left">Languages and Tools I have worked with:</h4> 
+<h4 align="left">Languages and Technologies I have worked with:</h4> 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
     <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
