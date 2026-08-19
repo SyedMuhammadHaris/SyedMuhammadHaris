@@ -41,7 +41,7 @@ I think of myself less as someone who just writes code and more as someone who s
 | **Backend** | Django · Django REST Framework · Ktor |
 | **Frontend** | React · Next.js · HTML5 · CSS3 |
 | **Database** | PostgreSQL · Firebase |
-| **AI Tooling** | Prompt engineering · Agentic dev workflows |
+| **AI Tooling** | Claude Code · Codex · Cursor |
 | **Tooling** | Git · GitHub Actions |
 
 </div>
